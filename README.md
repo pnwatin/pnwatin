@@ -1,7 +1,7 @@
 Me :
   - 👋 Hi, I’m Pierre-Nicolas WATIN-AUGOUARD
   - 👀 I’m interested in web development 
-  - 🌱 I’m currently learning tRPC, graphQL and apollo
+  - 🌱 I’m currently learning [tRPC](https://trpc.io), [graphQL](https://graphql.org/) and [apollo](https://www.apollographql.com/)
 
 My projects :
   - [twitter clone](https://touitteur.vercel.app)
